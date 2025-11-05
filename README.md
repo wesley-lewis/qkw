@@ -37,6 +37,8 @@ For example:
 
 <br>
 
+## Build instructions
+
 ```bash
 cmake ..
 cmake --build . -j$(nproc)
