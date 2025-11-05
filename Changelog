@@ -13,3 +13,9 @@ June 16,2025
 Compile Time Base/Static.
 * Wrapped every dynamic format string in `fmt::runtime()` solved the building
 issue.
+
+-----------
+November 5, 2025
+-----------
+* Created a CMake file to build the project locally
+* sqlite3 is still being used from the system packages
